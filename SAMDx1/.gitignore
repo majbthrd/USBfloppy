@@ -1,0 +1,5 @@
+*.bak
+d11floppy THUMB Debug/*
+d11floppy THUMB Release/*
+*.hzs
+make/build/*
